@@ -1,73 +1,41 @@
-# Welcome to your Lovable project
+# 🩺 Medico Helping Hands – Near To Me
 
-## Project info
+## 🌐 Live Prototype
+👉 [Visit the Live Website](https://mgx-zckzg4fp00g.mgx.world/)  
 
-**URL**: https://lovable.dev/projects/0b23fbae-9db9-4327-ac65-85d7b61547d8
+---
 
-## How can I edit this code?
+## 💡 Overview
+**Medico Helping Hands – Near To Me** is an **AI-driven, cloud-based healthcare companion** designed to make healthcare **faster, smarter, and more inclusive**.  
+It bridges the gap between patients, doctors, and emergency responders by offering real-time access to appointments, records, and emergency support — all from one unified platform.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚑 Key Features
+- **🗓️ Smart Appointment Booking** – Book doctor consultations with preferred timing and real-time confirmation.  
+- **📂 Digital Health Records** – Securely store and share encrypted prescriptions and medical reports.  
+- **🚨 Emergency SOS System** – One-tap SOS triggers live ambulance tracking, AI-based route optimization, and volunteer dispatch.  
+- **💬 Teleconsultation** – Virtual video consultations between patients and doctors.  
+- **🏥 ABHA Card API Integration** – Instantly access and verify government health scheme eligibility.  
+- **🌍 Multilingual AI Chatbot** – Provides health awareness, symptom advice, and emergency guidance in multiple languages.  
+- **🤝 Volunteer Support Feature** – Volunteers assist elderly or disabled patients with hospital visits and follow-up care.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0b23fbae-9db9-4327-ac65-85d7b61547d8) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧰 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**APIs & Integrations:**  
+- Google Maps API – for ambulance tracking and route optimization  
+- ABHA / Ayushman Bharat API – for government scheme verification  
+- Twilio / Email API – for SMS & notification alerts  
 
-**Use your preferred IDE**
+**Hosting:** MGX Cloud → [https://mgx-zckzg4fp00g.mgx.world/](https://mgx-zckzg4fp00g.mgx.world/)  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0b23fbae-9db9-4327-ac65-85d7b61547d8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## ⚙️ Installation & Setup
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/03aditya-byte/wellspring-hubs/edit/main/README.md
