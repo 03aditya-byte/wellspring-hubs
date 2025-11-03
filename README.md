@@ -33,9 +33,29 @@ It bridges the gap between patients, doctors, and emergency responders by offeri
 
 **Hosting:** MGX Cloud → [https://mgx-zckzg4fp00g.mgx.world/](https://mgx-zckzg4fp00g.mgx.world/)  
 
+
 ---
 
 ## ⚙️ Installation & Setup
 1. Clone this repository  
    ```bash
    git clone https://github.com/03aditya-byte/wellspring-hubs/edit/main/README.md
+
+   Navigate to the project directory
+
+cd medico-helping-hands
+
+
+Install dependencies
+
+npm install
+
+
+Start the development server
+
+npm start
+
+
+Open your browser and visit
+
+http://localhost:3000
